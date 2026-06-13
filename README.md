@@ -1,8 +1,8 @@
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=andriy4k07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=andriy4k07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andriy4k07&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andriy4k07&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=my_hyprland_dots)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=andriy4k07&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=my_hyprland_dots)-->
 
 <!--
 **andriy4k07/andriy4k07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
